@@ -1,7 +1,6 @@
 /*
  *
- * Copyright (c) 2023 Collin Hodge
- * Copyright (c) 2023 The ZMK Contributors
+ * Copyright (c) 2023 Ryan Dake
  * SPDX-License-Identifier: MIT
  *
  */
